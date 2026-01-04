@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/followers/Git-WarLord?style=for-the-badge&label=Followers" />
   <img src="https://img.shields.io/github/stars/Git-WarLord?style=for-the-badge&label=Stars" />
   <a href="https://www.linkedin.com/in/rahulmohanupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/LinkedIn%20Followers-YourNumber-blue?style=for-the-badge" />
+  <!-- <img src="https://img.shields.io/badge/LinkedIn%20Followers-YourNumber-blue?style=for-the-badge" /> -->
 </p>
 
 ---
@@ -68,11 +68,6 @@ class RahulUpadhyay {
 
 ## 📊 Proof of Consistency
 
-<p align="center">
-  <!-- Combined GitHub stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&theme=radical&hide_title=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&theme=radical&hide_title=true" width="48%" />
-</p>
 
 <p align="center">
   <!-- Contribution streak / graph -->
@@ -140,7 +135,7 @@ pie title Engineering Skill Matrix
   <a href="mailto:rahulmohanupadhyay"><img src="https://img.shields.io/badge/Email-rahulmohanupadhyay-blue?style=for-the-badge" /></a>
   <a href="https://github.com/Git-WarLord"><img src="https://img.shields.io/badge/GitHub-Git--WarLord-black?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/rahulmohanupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/LinkedIn%20Followers-YourNumber-blue?style=for-the-badge" />
+  <!-- <img src="https://img.shields.io/badge/LinkedIn%20Followers-YourNumber-blue?style=for-the-badge" /> -->
 </p>
 
 ---
