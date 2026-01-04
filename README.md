@@ -72,9 +72,9 @@ class RahulUpadhyay {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-WarLord&theme=radical" width="48%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&theme=radical" width="50%" />
-</p>
+</p> -->
 
 ---
 
