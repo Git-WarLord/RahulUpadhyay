@@ -68,10 +68,10 @@ class RahulUpadhyay {
 
 ## 📊 Proof of Consistency
 
-<p align="center">
-  <a href="https://github.com/Git-WarLord"><img src="https://img.shields.io/badge/GitHub-Git--WarLord-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/rahulmohanupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Git-WarLord&theme=react-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Git-WarLord&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&theme=radical)
+
 
 
 ---
