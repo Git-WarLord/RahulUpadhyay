@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/followers/Git-WarLord?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Git-WarLord?style=for-the-badge" />
   <a href="https://www.linkedin.com/in/rahulmohanupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/LinkedIn%20Followers-YourNumber-blue?style=for-the-badge" />
+  
 </p>
 
 ---
@@ -69,18 +69,10 @@ class RahulUpadhyay {
 ## 📊 Proof of Consistency
 
 <p align="center">
-  <!-- Contribution graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Git-WarLord&theme=react-dark&hide_border=true" width="60%" />
-
-  <!-- GitHub stats -->
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&theme=react-dark&hide_title=true&hide_border=true" width="38%" />
+  <a href="https://github.com/Git-WarLord"><img src="https://img.shields.io/badge/GitHub-Git--WarLord-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/rahulmohanupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
-<p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&theme=react-dark" width="50%" />
-</p>
 
 ---
 
@@ -143,7 +135,7 @@ pie title Engineering Skill Matrix
   <a href="mailto:rahulmohanupadhyay"><img src="https://img.shields.io/badge/Email-rahulmohanupadhyay-blue?style=for-the-badge" /></a>
   <a href="https://github.com/Git-WarLord"><img src="https://img.shields.io/badge/GitHub-Git--WarLord-black?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/rahulmohanupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/LinkedIn%20Followers-YourNumber-blue?style=for-the-badge" />
+
 </p>
 
 ---
