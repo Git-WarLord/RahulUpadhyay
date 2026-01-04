@@ -68,12 +68,16 @@ class RahulUpadhyay {
 ## 📊 Proof of Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-WarLord&theme=radical" width="48%" />
+  <!-- GitHub contribution graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Git-WarLord&theme=react-dark&hide_border=true" width="60%" />
+
+  <!-- GitHub stats (total commits, stars, forks) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&theme=react-dark&hide_title=true&hide_border=true" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&theme=radical" width="50%" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&theme=react-dark" width="50%" />
 </p>
 
 ---
