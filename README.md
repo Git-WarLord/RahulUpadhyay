@@ -73,7 +73,11 @@ class RahulUpadhyay {
 </p>
 
  <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Git-WarLord&theme=react-dark&hide_border=true" width="100%" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&theme=radical&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&theme=radical&hide_title=true" width="48%" />
+</p>
+
 
 </p> 
 
