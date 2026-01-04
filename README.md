@@ -1,46 +1,47 @@
-<!-- ===================== HERO SECTION ===================== -->
-
-<h1 align="center">⚡ Rahul Upadhyay ⚡</h1>
-<h3 align="center">🚀 Software Developer | MERN Stack | Gen AI | UI/UX Designer</h3>
+<!-- ===================== UNSTOPPABLE GITHUB PROFILE ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Apps;Crafting+AI-Powered+Experiences;MERN+Stack+Developer;Gen+AI+Explorer;Designing+Clean+UI+with+Figma" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rahul%20Upadhyay&fontSize=48&fontAlignY=38&desc=Software%20Developer%20|%20MERN%20|%20Gen%20AI%20|%20UI%2FUX&descAlignY=55" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Git-WarLord"><img src="https://komarev.com/ghpvc/?username=Git-WarLord&label=Profile%20Views&color=0e75b6&style=flat" /></a>
-  <img src="https://img.shields.io/github/followers/Git-WarLord?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Git-WarLord?label=Stars&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=I+Build+Scalable+Web+Applications;I+Design+Pixel-Perfect+UI%2FUX;I+Ship+AI-Powered+Products;MERN+Stack+%2B+Generative+AI;Turning+Ideas+Into+Production+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Git-WarLord&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Git-WarLord?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Git-WarLord?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Developer Manifesto
 
-```js
-const rahul = {
-  role: "Software Developer",
-  stack: ["MERN", "Gen AI", "UI/UX"],
-  passions: ["AI Products", "Clean Architecture", "Creative UI"],
-  mindset: "Build. Scale. Innovate.",
-  funFact: "I turn ideas into production-ready products 🚀"
-};
+```ts
+class RahulUpadhyay {
+  role = "Software Developer";
+  stack = ["MERN", "Gen AI", "UI/UX"];
+  focus = "Scalable, secure, production-grade systems";
+  philosophy = "Ship fast. Refactor smart. Scale confidently.";
+  superPower = "I combine AI + Engineering + Design";
+}
 ```
 
-* 🔥 Strong focus on **real-world, scalable applications**
-* 🤖 Building **AI-powered web experiences**
-* 🎨 Designing intuitive interfaces using **Figma**
-* 💡 Obsessed with performance, UX & clean code
+* 🚀 Product-focused engineer (not just feature builder)
+* 🤖 Building **AI-first applications**
+* 🎨 UI/UX driven development using **Figma → Code**
+* ⚡ Performance, DX & clean architecture obsessed
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technology Stack (Battle-Tested)
 
 ### ⚛️ Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
 ### ⚙️ Backend
@@ -55,7 +56,7 @@ const rahul = {
 ### 🤖 Gen AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
-![AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
+![Prompt](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
 
 ### 🎨 UI/UX
 
@@ -63,65 +64,65 @@ const rahul = {
 
 ---
 
-## 📊 GitHub Performance
+## 📊 Proof of Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-WarLord&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-WarLord&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
 
-## 🥧 Skill Distribution
+## 🧩 Skill Intelligence Map
 
 ```mermaid
-pie title Rahul's Skill Matrix
-    "Frontend (React/Next)" : 35
-    "Backend (Node/Express)" : 25
-    "Gen AI" : 20
-    "UI/UX (Figma)" : 10
-    "Dev Tools & Others" : 10
+pie title Engineering Skill Matrix
+    "Frontend Engineering" : 35
+    "Backend Architecture" : 25
+    "Generative AI" : 20
+    "UI/UX Design" : 10
+    "DevOps & Tools" : 10
 ```
 
 ---
 
-## 🚀 Flagship Projects (Showcase)
+## 🚀 Flagship Projects (Recruiter Gold)
 
-### 🤖 AI-Powered SaaS Platform
+### 🤖 AI SaaS Platform
 
-* Gen AI integrations (OpenAI)
-* Smart automation & insights
-* Modern dashboard UI
+* OpenAI-powered workflows
+* Role-based dashboards
+* Secure API architecture
 
-### 🌐 Full-Stack MERN Application
+### 🌐 Enterprise MERN App
 
-* JWT Authentication
-* Role-based access
-* Analytics dashboard
+* JWT + RBAC authentication
+* Scalable REST APIs
+* Performance-optimized frontend
 
-### 🎨 Design System (Figma)
+### 🎨 UI/UX Design System
 
-* Component-based UI
-* Responsive-first approach
-* Developer-friendly handoff
+* Figma → React pipeline
+* Atomic design principles
+* Accessibility-first approach
 
 ---
 
-## 🧩 Developer Highlights
+## 🏆 Engineering Highlights
 
-* ⚡ Production-ready architecture
-* 🔐 Secure authentication patterns
-* 📈 Performance-optimized React apps
-* 🧠 AI prompt engineering
+* ⚡ Clean architecture & folder structuring
+* 🔐 Security best practices
+* 📈 Optimized rendering & state management
+* 🧠 Advanced prompt engineering
 * 🎯 Pixel-perfect UI execution
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Auto Updated)
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -129,7 +130,7 @@ pie title Rahul's Skill Matrix
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect & Collaborate
 
 <p align="center">
   <a href="mailto:rahulmohanupadhyay"><img src="https://img.shields.io/badge/Email-rahulmohanupadhyay-blue?style=for-the-badge" /></a>
@@ -138,6 +139,9 @@ pie title Rahul's Skill Matrix
 
 ---
 
-<h3 align="center">💎 Top 1% Mindset — Code. Create. Dominate. 💎</h3>
+<h2 align="center">💎 UNSTOPPABLE DEVELOPER MODE ACTIVATED 💎</h2>
+<h4 align="center">Code • Design • AI • Scale</h4>
 
-⭐ *Star my repositories if you like what I build!*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
