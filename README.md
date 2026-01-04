@@ -1,4 +1,4 @@
-<!-- ===================== UNSTOPPABLE GITHUB PROFILE UPGRADED ===================== -->
+<!-- ===================== UNSTOPPABLE GITHUB PROFILE — LINKEDIN & FIXED CONSISTENCY ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rahul%20Upadhyay&fontSize=48&fontAlignY=38&desc=Software%20Developer%20|%20MERN%20|%20Gen%20AI%20|%20UI%2FUX&descAlignY=55" />
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/github/followers/Git-WarLord?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Git-WarLord?style=for-the-badge" />
   <a href="https://www.linkedin.com/in/rahulmohanupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn%20Followers-YourNumber-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -68,10 +69,11 @@ class RahulUpadhyay {
 ## 📊 Proof of Consistency
 
 <p align="center">
-  <!-- GitHub contribution graph -->
+  <!-- Contribution graph -->
   <img src="https://activity-graph.herokuapp.com/graph?username=Git-WarLord&theme=react-dark&hide_border=true" width="60%" />
 
-  <!-- GitHub stats (total commits, stars, forks) -->
+  <!-- GitHub stats -->
+
   <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&theme=react-dark&hide_title=true&hide_border=true" width="38%" />
 </p>
 
@@ -130,7 +132,7 @@ pie title Engineering Skill Matrix
 ## 🐍 Contribution Snake (Auto Updated)
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Git-WarLord&theme=react-dark&hide_border=true" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -141,6 +143,7 @@ pie title Engineering Skill Matrix
   <a href="mailto:rahulmohanupadhyay"><img src="https://img.shields.io/badge/Email-rahulmohanupadhyay-blue?style=for-the-badge" /></a>
   <a href="https://github.com/Git-WarLord"><img src="https://img.shields.io/badge/GitHub-Git--WarLord-black?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/rahulmohanupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn%20Followers-YourNumber-blue?style=for-the-badge" />
 </p>
 
 ---
