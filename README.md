@@ -1,5 +1,5 @@
 
-<!-- ===================== TOP 0.01% UNSTOPPABLE GITHUB PROFILE ===================== -->
+<!-- ===================== UNSTOPPABLE GITHUB PROFILE ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=260&section=header&text=Rahul%20Upadhyay&fontSize=52&fontAlignY=40&desc=Software%20Engineer%20•%20MERN%20•%20Generative%20AI%20•%20UI/UX&descAlignY=60&animation=fadeIn" />
@@ -10,9 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Git-WarLord&label=Profile%20Views&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/Git-WarLord?style=for-the-badge&label=Followers" />
-  <img src="https://img.shields.io/github/stars/Git-WarLord?style=for-the-badge&label=Stars" />
   <a href="https://www.linkedin.com/in/rahulmohanupadhyay/">
     <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -34,11 +31,6 @@ class RahulUpadhyay {
   superPower = "I combine AI + Engineering + Design";
 }
 ````
-
-* 🚀 Product-focused engineer (not just feature builder)
-* 🤖 Building **AI-first applications**
-* 🎨 UI/UX driven development using **Figma → Code**
-* ⚡ Performance, DX & clean architecture obsessed
 
 ---
 
@@ -84,41 +76,6 @@ class RahulUpadhyay {
 
 ---
 
-## 🧩 Skill Intelligence Map
-
-```mermaid
-pie title Engineering Skill Matrix
-    "Frontend Engineering" : 35
-    "Backend Architecture" : 25
-    "Generative AI" : 20
-    "UI/UX Design" : 10
-    "DevOps & Tools" : 10
-```
-
----
-
-## 🚀 Flagship Projects
-
-### 🤖 AI SaaS Platform
-
-* OpenAI-powered workflows
-* Role-based dashboards
-* Secure API architecture
-
-### 🌐 Enterprise MERN App
-
-* JWT + RBAC authentication
-* Scalable REST APIs
-* Performance-optimized frontend
-
-### 🎨 UI/UX Design System
-
-* Figma → React pipeline
-* Atomic design principles
-* Accessibility-first approach
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -127,11 +84,9 @@ pie title Engineering Skill Matrix
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝 Connect & Download
 
 <p align="center">
-  <a href="mailto:rahulmohanupadhyay"><img src="https://img.shields.io/badge/Email-rahulmohanupadhyay-blue?style=for-the-badge" /></a>
-  <a href="https://github.com/Git-WarLord"><img src="https://img.shields.io/badge/GitHub-Git--WarLord-black?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/rahulmohanupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Git-WarLord/raw/main/Rahul_Upadhyay_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader" /></a>
 </p>
@@ -145,4 +100,3 @@ pie title Engineering Skill Matrix
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer" />
 </p>
 ```
-
