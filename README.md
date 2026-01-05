@@ -123,8 +123,18 @@ pie title Engineering Skill Matrix
 
 ## 🐍 Contribution Snake (Auto Updated)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Git-WarLord&theme=react-dark&hide_border=true" />
+</p> -->
+## 🐍 Contribution Snake (Auto Updated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Git-WarLord/Git-WarLord/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-WarLord&theme=react-dark&hide_border=true" />
 </p>
 
 ---
