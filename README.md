@@ -1,9 +1,8 @@
 
-
-<!-- ===================== UNSTOPPABLE GITHUB PROFILE — TOP 0.01% ===================== -->
+<!-- ===================== TOP 0.01% UNSTOPPABLE GITHUB PROFILE ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=240&section=header&text=Rahul%20Upadhyay&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20•%20MERN%20•%20Generative%20AI%20•%20UI/UX&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=260&section=header&text=Rahul%20Upadhyay&fontSize=52&fontAlignY=40&desc=Software%20Engineer%20•%20MERN%20•%20Generative%20AI%20•%20UI/UX&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -61,7 +60,7 @@ class RahulUpadhyay {
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
-### 🤖 Gen AI
+### 🤖 Generative AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
 ![Prompt](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
@@ -146,5 +145,4 @@ pie title Engineering Skill Matrix
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer" />
 </p>
 ```
-
 
