@@ -1,21 +1,17 @@
-
 <!-- ===================== UNSTOPPABLE GITHUB PROFILE ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=260&section=header&text=Rahul%20Upadhyay&fontSize=52&fontAlignY=40&desc=Software%20Engineer%20•%20MERN%20•%20Generative%20AI%20•%20UI/UX&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rahul%20Upadhyay&fontSize=48&fontAlignY=38&desc=Software%20Developer%20|%20MERN%20|%20Gen%20AI%20|%20UI%2FUX&descAlignY=55" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Scalable+Web+Apps;AI-Powered+SaaS+Solutions;Design-Led+Frontend+Architecture;Turning+Ideas+Into+Production-Ready+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=I+Build+Scalable+Web+Applications;I+Design+Pixel-Perfect+UI%2FUX;I+Ship+AI-Powered+Products;MERN+Stack+%2B+Generative+AI;Turning+Ideas+Into+Production+Systems" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulmohanupadhyay/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Git-WarLord/raw/main/Rahul_Upadhyay_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Git-WarLord&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Git-WarLord?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Git-WarLord?style=for-the-badge" />
 </p>
 
 ---
@@ -30,11 +26,16 @@ class RahulUpadhyay {
   philosophy = "Ship fast. Refactor smart. Scale confidently.";
   superPower = "I combine AI + Engineering + Design";
 }
-````
+```
+
+* 🚀 Product-focused engineer (not just feature builder)
+* 🤖 Building **AI-first applications**
+* 🎨 UI/UX driven development using **Figma → Code**
+* ⚡ Performance, DX & clean architecture obsessed
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack (Battle-Tested)
 
 ### ⚛️ Frontend
 
@@ -52,7 +53,7 @@ class RahulUpadhyay {
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
-### 🤖 Generative AI
+### 🤖 Gen AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
 ![Prompt](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
@@ -66,37 +67,81 @@ class RahulUpadhyay {
 ## 📊 Proof of Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&hide_title=true&hide_border=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&hide_border=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-WarLord&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-WarLord&theme=radical" width="60%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Git-WarLord/Git-WarLord/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-WarLord&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
 
-## 🤝 Connect & Download
+## 🧩 Skill Intelligence Map
+
+```mermaid
+pie title Engineering Skill Matrix
+    "Frontend Engineering" : 35
+    "Backend Architecture" : 25
+    "Generative AI" : 20
+    "UI/UX Design" : 10
+    "DevOps & Tools" : 10
+```
+
+---
+
+## 🚀 Flagship Projects (Recruiter Gold)
+
+### 🤖 AI SaaS Platform
+
+* OpenAI-powered workflows
+* Role-based dashboards
+* Secure API architecture
+
+### 🌐 Enterprise MERN App
+
+* JWT + RBAC authentication
+* Scalable REST APIs
+* Performance-optimized frontend
+
+### 🎨 UI/UX Design System
+
+* Figma → React pipeline
+* Atomic design principles
+* Accessibility-first approach
+
+---
+
+## 🏆 Engineering Highlights
+
+* ⚡ Clean architecture & folder structuring
+* 🔐 Security best practices
+* 📈 Optimized rendering & state management
+* 🧠 Advanced prompt engineering
+* 🎯 Pixel-perfect UI execution
+
+---
+
+## 🐍 Contribution Snake (Auto Updated)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulmohanupadhyay/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Upadhyay-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/Git-WarLord/raw/main/Rahul_Upadhyay_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader" /></a>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🤝 Connect & Collaborate
+
+<p align="center">
+  <a href="mailto:rahulmohanupadhyay"><img src="https://img.shields.io/badge/Email-rahulmohanupadhyay-blue?style=for-the-badge" /></a>
+  <a href="https://github.com/Git-WarLord"><img src="https://img.shields.io/badge/GitHub-Git--WarLord-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 <h2 align="center">💎 UNSTOPPABLE DEVELOPER MODE ACTIVATED 💎</h2>
-<h4 align="center">Code • Design • AI • Scale • Resume Auto-Download</h4>
+<h4 align="center">Code • Design • AI • Scale</h4>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-```
