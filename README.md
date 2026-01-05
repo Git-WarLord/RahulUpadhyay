@@ -68,8 +68,8 @@ class RahulUpadhyay {
 ## 📊 Proof of Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-WarLord&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-WarLord&theme=tokyonight" width="48%" />
+  <!-- Contribution streak / graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-WarLord&theme=radical" width="60%" />
 </p>
 
 <p align="center">
