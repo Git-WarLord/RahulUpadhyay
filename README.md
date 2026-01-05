@@ -25,3 +25,6 @@ class RahulUpadhyay {
   mission    = "Building production-ready AI ecosystems";
   philosophy = "I don't just build features — I build PRODUCTS.";
 }
+
+🛠️ Technology Stack (Battle-Tested)
+<p align="left"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenAI-412991%3Fstyle%3Dfor-the-badge%26logo%3Dopenai" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TailwindCSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Figma-F24E1E%3Fstyle%3Dfor-the-badge%26logo%3Dfigma" /> </p>
